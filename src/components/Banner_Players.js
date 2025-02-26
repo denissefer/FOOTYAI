@@ -5,7 +5,7 @@ import { Autoplay } from 'swiper/modules';
 
 export default function Banner() {
     return (
-        <div className="w-full  py-3 absolute mt-[496px]">
+        <div className="w-full  py-3 absolute mt-[693px]">
             {/* 2. Креираме Swiper со autoplay */}
             <Swiper
                 spaceBetween={50} 
